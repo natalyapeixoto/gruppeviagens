@@ -1,5 +1,3 @@
-# gruppeviagens
-### projeto extra - final do modulo 
-#### {reprograma}
+### Extra project from the first module at {reprograma} 
 
-##### https://natalyapeixoto.github.io/gruppeviagens/
+### using HTML& CSS only
